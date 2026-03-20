@@ -1,0 +1,16 @@
+{
+    "baseUrl": "https://practice.automationtesting.in/",
+  
+    "checkout": {
+      "firstName": "Krish",
+      "lastName": "Sharma",
+      "address1": "123",
+      "address2":"Test Street",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "country":"India",
+      "pincode": "302001",
+      "phone": "9876543210",
+      "email": "testuser12345@gmail.com"
+    }
+}
