@@ -1,0 +1,32 @@
+{
+    "students": [
+      {
+        "firstName": "Krish",
+        "lastName": "Sharma",
+        "email": "krish.sharma21@gmail.com",
+        "gender": "Male",
+        "mobile": "9829047668",
+        "dob": "21 Apr 2004",
+        "subjects": "Computer Science",
+        "hobbies": ["Sports"],
+        "picture": "C:/Users/krish/capg/assesment day 19 (14.03.2026)/image/profile.png",
+        "address": "p no. 11, hari nagar, tara nagar -c, jhotwara",
+        "state": "Rajasthan",
+        "city": "Jaipur"
+      },
+      {
+        "firstName": "Rahul",
+        "lastName": "Verma",
+        "email": "rahul.verma@gmail.com",
+        "gender": "Male",
+        "mobile": "9876543211",
+        "dob": "10 Jan 2002",
+        "subjects": "Maths",
+        "hobbies": ["Reading"],
+        "picture": "C:/Users/krish/capg/assesment day 19 (14.03.2026)/image/profile.png",
+        "address": "Jaipur, Rajasthan",
+        "state": "Rajasthan",
+        "city": "Jaipur"
+      }
+    ]
+  }
