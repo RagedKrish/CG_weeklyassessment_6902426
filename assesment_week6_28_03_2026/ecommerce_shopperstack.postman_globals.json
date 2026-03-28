@@ -1,0 +1,69 @@
+{
+	"id": "dcfd1ee0-0863-4e11-8475-16263a3ec02e",
+	"values": [
+		{
+			"key": "jwt_token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "BaseUrl",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "shopperid",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "product_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "item_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "addressid",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "order_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "reviewid",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "ecommerce_shopperstack Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2026-03-28T07:52:19.889Z",
+	"_postman_exported_using": "Postman/12.3.6"
+}

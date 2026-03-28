@@ -1,0 +1,19 @@
+{
+  "baseUrl": "https://practice.automationtesting.in/",
+  "user": {
+    "email": "testuser12345@gmail.com",
+    "password": "18Testing21$"
+  },
+  "billingDetails": {
+    "firstName": "Krish",
+    "lastName": "Sharma",
+    "country": "India",
+    "address1": "New Street 123",
+    "address2": "Near City Mall",
+    "city": "Delhi",
+    "state": "Delhi",
+    "postcode": "110001",
+    "phone": "9999999999",
+    "email": "testuser@example.com"
+  }
+}
